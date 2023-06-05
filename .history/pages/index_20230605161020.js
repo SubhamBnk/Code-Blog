@@ -36,7 +36,7 @@ export default function Home({ blogs, topics }) {
         />
         <meta
           property="og:image"
-          content="https://github.com/SubhamBnk/Code-Blog/blob/main/Extra/sc.png"
+          content="https://github.com/SubhamBnk/Code-Blog/blob/main/Extra/sc.png    "
         />
 
         <meta property="twitter:card" content="summary_large_image" />

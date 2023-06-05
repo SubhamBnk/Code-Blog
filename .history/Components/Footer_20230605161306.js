@@ -30,7 +30,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://github.com/SubhamBnk"
+              href="https://github.com/soumyajit4419"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -38,7 +38,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://www.instagram.com/subham_smiling/"
+              href="https://www.instagram.com/soumyajit4419/"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -46,7 +46,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://www.linkedin.com/in/subham-gourisaria-a13418201/"
+              href="https://www.linkedin.com/in/soumyajit4419/"
               rel="noopener noreferrer"
               target="_blank"
             >

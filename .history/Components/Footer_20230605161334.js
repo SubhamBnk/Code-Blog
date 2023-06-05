@@ -46,7 +46,7 @@ function Footer() {
             </a>
             <a
               className="ml-4 text-gray-50"
-              href="https://www.linkedin.com/in/subham-gourisaria-a13418201/"
+              href="https://www.linkedin.com/in/soumyajit441/"
               rel="noopener noreferrer"
               target="_blank"
             >

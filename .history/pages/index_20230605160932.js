@@ -36,11 +36,11 @@ export default function Home({ blogs, topics }) {
         />
         <meta
           property="og:image"
-          content="https://github.com/SubhamBnk/Code-Blog/blob/main/Extra/sc.png"
+          content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://github.com/SubhamBnk/Code-Blog/blob/main/Extra/sc.png" />
+        <meta property="twitter:url" content="" />
         <meta property="twitter:title" content="Code-Blog 🚀" />
         <meta
           property="twitter:description"
@@ -48,7 +48,7 @@ export default function Home({ blogs, topics }) {
         />
         <meta
           property="twitter:image"
-          content="https://github.com/SubhamBnk/Code-Blog/blob/main/Extra/sc.png"
+          content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
         />
       </Head>
 
