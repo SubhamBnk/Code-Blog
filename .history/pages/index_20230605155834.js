@@ -40,7 +40,7 @@ export default function Home({ blogs, topics }) {
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content=" " />
+        <meta property="twitter:url" content="" />
         <meta property="twitter:title" content="Code-Blog 🚀" />
         <meta
           property="twitter:description"
