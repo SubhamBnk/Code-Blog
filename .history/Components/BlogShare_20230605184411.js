@@ -13,7 +13,7 @@ function BlogShare({ data }) {
             href={`https://twitter.com/intent/tweet?text=${
               data.Title
             } by @Subham_Coder
-            &url=code-blog-psi.vercel.app/${String(
+            &url=${String(
               data.Title.split(" ").join("-").toLowerCase()
             )}
             &hashtags=${data.Tags.split(" ")}`}
